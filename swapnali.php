@@ -1,4 +1,7 @@
 <?php
-echo "we are in swap branch of www";
+
+
+echo "we are in swap branch";
+
 
 ?>
