@@ -1,7 +1,8 @@
 <?php
 
-echo "my new file in documents";
+echo "file 2 in www";
 
-echo "my new file in swap branch";
+
+echo "my new file in swap branch from documents";
 
 ?>
