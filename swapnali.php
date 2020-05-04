@@ -1,6 +1,6 @@
 <?php
 
-echo "in master branch from documents and www";
+echo "in swap branch from documents";
 
 echo "in phpstorm";
 
