@@ -1,10 +1,8 @@
 <?php
 
-echo "in new branch in documents";
+echo "in master branch in www";
 
-echo "by first user only";
 
-echo "by other user";
 echo "in phpstorm";
 
 
