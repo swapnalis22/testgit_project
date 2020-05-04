@@ -1,7 +1,7 @@
 <?php
 
 <<<<<<< HEAD
-echo "file 2 in docs";
-echo "my new file in other branch from documents";
+echo "file 2 in projects";
+echo "my new file in master branch from projects";
 
 ?>
